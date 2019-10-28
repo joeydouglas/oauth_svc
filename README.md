@@ -3,4 +3,6 @@ Playing around w/ the golang.org/x/oauth2 library.
 
 
 ### Notes:
+
 - No OIDC support.
+- Easy to use.
